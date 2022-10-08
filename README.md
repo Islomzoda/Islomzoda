@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Islomzoda
 - 👀 I’m interested in Web Dev and Backend Dev with (Laravel, Vue)
 - 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m not looking to collaborate on ...
 - 📫 How to reach me telegram @joneeru
 
 <!---
